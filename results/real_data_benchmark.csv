@@ -1,0 +1,93 @@
+test_number,industry,task,context_length,input_words,output_words,input_tokens,output_tokens,total_tokens,latency_seconds,tokens_per_second,quality_score,output_preview
+1,Climate Tech,Sensor Summary,Short,35,61,104,1200,1304,30.44,39.4,60.0,"**Summary for Community Board Meeting:**  
+
+The 2016 air quality data for Brooklyn shows:  
+- **PM2.5 (Fine Particulate Matter):** 8.74 mcg/m³, which is **below the EPA’s ""Moderate"" threshold** of 12–"
+2,Climate Tech,Sensor Summary,Medium,64,104,193,1200,1393,33.91,35.4,75.0,"**Community Board Meeting Summary: Brooklyn Air Quality (2016 NYC Community Air Survey)**  
+
+**Key Findings:**  
+1. **PM2.5 (Fine Particulate Matter):**  
+   - **EPA Standard:** Annual average ""Good"" "
+3,Climate Tech,Sensor Summary,Long,114,312,288,984,1272,27.0,36.4,90.0,"**Summary for Community Leaders: Brooklyn Air Quality & Health Impacts**  
+
+### **Highest-Risk Neighborhoods**  
+1. **Williamsburg-Bushwick**:  
+   - Highest PM2.5 (9.61 mcg/m³) and NO2 (21.27 ppb) le"
+4,Climate Tech,Policy Brief,Short,37,112,89,468,557,11.8,39.7,70.0,"**Policy Brief: Urgency of Building Electrification in NYC**  
+To meet Local Law 97’s mandates—40% emissions cuts by 2030 and 80% by 2050—accelerating building electrification is non-negotiable, as fo"
+5,Climate Tech,Policy Brief,Medium,87,208,176,796,972,23.36,34.1,90.0,"**Policy Brief: Accelerating NYC Building Electrification to Meet 2030 Targets**  
+
+New York City’s Local Law 97 (LL97) mandates significant emissions reductions from 50,000+ large buildings by 2030, "
+6,Climate Tech,Policy Brief,Long,121,245,245,1200,1445,37.9,31.7,90.0,"**Policy Brief: Accelerating NYC Building Electrification**  
+New York City’s Local Law 97 (LL97) mandates critical emissions reductions from 50,000 buildings, yet compliance remains uneven (Manhattan"
+7,Climate Tech,Risk Assessment,Short,22,68,65,446,511,107.25,4.2,80.0,"Residents in Red Hook, Brooklyn, located in FEMA Flood Zone AE, face a 1% annual risk of flooding, which is projected to increase significantly due to a 2.5-foot sea level rise by 2050, exacerbating s"
+8,Climate Tech,Risk Assessment,Medium,88,208,172,813,985,48.17,16.9,80.0,"**Red Hook Climate Risk Assessment (150 words):**  
+Red Hook faces severe climate risks compounded by socioeconomic vulnerability. As a FEMA Zone AE area, it endures high flood risk, exacerbated by pr"
+9,Climate Tech,Risk Assessment,Long,152,859,314,1200,1514,30.85,38.9,80.0,"
+Okay, I need to write a 300-word risk assessment for community leaders in Red Hook, Brooklyn, covering flood timelines, air quality compounding risks, population vulnerabilities, and four prioritized"
+10,Agriculture,Crop Recommendation,Short,29,10,76,1200,1276,34.73,34.6,35.0,"**Expert Agriculture Advisor Response:**
+
+Given the current conditions in your"
+11,Agriculture,Crop Recommendation,Medium,78,42,175,1200,1375,37.0,32.4,45.0,"**Crop Management Recommendations for Johnson County, Iowa (April 2026)**  
+
+### **1. Addressing Lower Leaf Yellowing**  
+**Likely Cause:** Nitrogen (N) deficiency due to dry soil conditions reducing "
+12,Agriculture,Crop Recommendation,Long,126,864,295,1200,1495,35.41,33.9,80.0,"
+Okay, let's tackle this query. The user wants a comprehensive 14-day management plan for a 240-acre Iowa cornfield. The corn is Pioneer P1185AM at V6 stage. The USDA data shows Iowa is only 1% plante"
+13,Agriculture,Yield Prediction,Short,24,227,72,1200,1272,83.2,14.4,80.0,"**Estimated Yield Range for Iowa Corn Field at V6 Stage**  
+Given the conditions described (normal rainfall, adequate fertility, and no mentioned stressors), here's a practical yield estimate for the "
+14,Agriculture,Yield Prediction,Medium,73,924,178,1200,1378,31.85,37.7,90.0,"
+Okay, let's tackle this yield estimate request for the 240-acre Iowa corn field. The user provided a lot of specific details, so I need to make sure I consider each one carefully. 
+
+First, the hybrid"
+15,Agriculture,Yield Prediction,Long,116,844,263,1200,1463,31.31,38.3,85.0,"
+Okay, let's tackle this yield forecast problem. The user wants a forecast for each of the three weather scenarios and the revenue impact per acre. Plus, they need the highest-impact management action"
+16,Agriculture,Soil Analysis,Short,24,856,75,1200,1275,31.7,37.9,80.0,"
+Okay, let's tackle this soil test result from Iowa for a soybean planting in spring 2026. The user is asking about needed amendments. First, I need to recall the typical soil requirements for soybean"
+17,Agriculture,Soil Analysis,Medium,68,778,183,1200,1383,55.8,21.5,85.0,"
+Okay, let's tackle this soil test and come up with the right amendments for the soybean field in Johnson County, Iowa. First, I need to go through each parameter and see what's off and what's good.
+
+"
+18,Agriculture,Soil Analysis,Long,119,805,286,1200,1486,107.6,11.2,85.0,"
+Okay, let's tackle this comprehensive soil assessment for the 160-acre Iowa soybean field. First, I need to go through each part of the data provided and figure out what's needed. The user wants an a"
+19,Workforce Dev,Career Path Advice,Short,25,303,72,1200,1272,68.61,17.5,80.0,"To bridge the gap from $72K to the NYC median UX Researcher salary of $98,710 in 12–18 months, you’ll need a strategic mix of skill-building, networking, and targeted job searching. Here’s a step-by-s"
+20,Workforce Dev,Career Path Advice,Medium,70,89,160,1200,1360,40.27,29.8,55.0,"**Career Transition Plan: UX Researcher (Nonprofit) → Tech Company (12–18 Months)**  
+*Constraints addressed: No CS degree, limited LinkedIn network, cannot leave current job.*  
+
+---
+
+### **Step 1: E"
+21,Workforce Dev,Career Path Advice,Long,195,160,388,1200,1588,33.65,35.7,50.0,"### 18-Month Roadmap for Transitioning to Tech as a First-Gen UX Researcher  
+
+---
+
+#### **Phase 1: Foundation Building (Months 0–6)**  
+**Goals**: Strengthen technical skills, expand tech network, an"
+22,Workforce Dev,Skill Gap Analysis,Short,26,252,71,1200,1271,41.72,28.8,70.0,"To transition from your current skill set (Python basics, Excel, PMP) to a **Data Analyst** role in NYC (median salary $104,280), here’s a breakdown of the **skills you’re missing**, a **timeline to c"
+23,Workforce Dev,Skill Gap Analysis,Medium,91,188,184,1200,1384,34.17,35.1,75.0,"### **Skill Gap Analysis: Operations Analyst → Data Analyst (NYC Tech)**  
+**Top 3 Skill Gaps & Learning Plans**  
+
+---
+
+#### **1. Advanced SQL (Critical Gap)**  
+**Current Skill**: Basic `SELECT` que"
+24,Workforce Dev,Skill Gap Analysis,Long,186,872,366,1200,1566,40.13,29.9,90.0,"
+Okay, let's tackle this skill gap analysis. The user is an Operations Analyst in NYC with 3 years of experience, looking to transition into a Data Analyst role. They have some technical skills alread"
+25,Workforce Dev,Job Match Scoring,Short,34,403,86,1175,1261,31.91,36.8,80.0,"**Match Score & Gap Analysis for Senior Data Analyst Role**  
+
+### **Match Score: 65/100**  
+*(Balanced score reflecting experience gaps but relevant technical skills)*  
+
+---
+
+### **Top Gaps**  
+1. *"
+26,Workforce Dev,Job Match Scoring,Medium,78,457,173,1200,1373,31.18,38.5,85.0,"**Match Score: 65/100**  
+The candidate has foundational skills (SQL, Python, Tableau) and relevant industry experience (logistics analytics), but gaps in seniority, advanced technical depth, and doma"
+27,Workforce Dev,Job Match Scoring,Long,145,114,284,1200,1484,30.51,39.3,50.0,"### **Comprehensive Job Match Analysis**  
+
+---
+
+#### **(1) Match Score by Category (Weighted)**  
+| **Category**          | **Weight** | **Candidate Score (1-100)** | **Weighted Score** |  
+|--------"
