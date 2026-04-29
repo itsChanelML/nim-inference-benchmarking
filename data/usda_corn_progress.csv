@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 11 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/custom/global_subtheme/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Page not found | Economics, Statistics, and Market Information System</title>
+    <link rel="apple-touch-icon-precomposed" href="/themes/custom/nal_global/images/favicons/favicon-57.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/themes/custom/nal_global/images/favicons/favicon-72.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/themes/custom/nal_global/images/favicons/favicon-114.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/themes/custom/nal_global/images/favicons/favicon-144.png">
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_IgEpiR_k9OXFRS7USBEwwo6-EurC67qarDNSi01WROk.css?delta=0&amp;language=en&amp;theme=global_subtheme&amp;include=eJx9jtEOgzAIRX-o2k8itBDXDKkBnPPvp8mS7amPXM6BW7txrn3durKGz4oCi_SCMk0FVdlSHSBLf7HpeuUgTZ8-hB-MxAbA72AlpjEcsYEHxu7QlFrF6OMu3oKhGF6wLul6cjfKZPuGMn_H9BPy1_M45Rb-Nrsf5Om-dzRiQGGL3LRF8tOD11zQ-QMVGnpJ" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_i2fyRLmuBrzucWwHkFAkc1HfM7SE6ROcMG1egt5Rmwo.css?delta=1&amp;language=en&amp;theme=global_subtheme&amp;include=eJx9jtEOgzAIRX-o2k8itBDXDKkBnPPvp8mS7amPXM6BW7txrn3durKGz4oCi_SCMk0FVdlSHSBLf7HpeuUgTZ8-hB-MxAbA72AlpjEcsYEHxu7QlFrF6OMu3oKhGF6wLul6cjfKZPuGMn_H9BPy1_M45Rb-Nrsf5Om-dzRiQGGL3LRF8tOD11zQ-QMVGnpJ" />
+
+    
+  </head>
+  <body>
+        <a href="#main-content" class="visually-hidden focusable">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <section class="usa-banner" aria-label="Official website of the United States government">
+  <div class="usa-accordion">
+    <header class="usa-banner__header">
+      <div class="usa-banner__inner">
+        <div class="grid-col-auto">
+          <img aria-hidden="true" class="usa-banner__header-flag" src="/themes/custom/nal_global/uswds/img/us_flag_small.png" alt="" />
+        </div>
+        <div class="grid-col-fill tablet:grid-col-auto" aria-hidden="true">
+          <p class="usa-banner__header-text">An official website of the United States government</p>
+          <p class="usa-banner__header-action">Here&apos;s how you know</p>
+        </div>
+        <button type="button" class="usa-accordion__button usa-banner__button" aria-expanded="false" aria-controls="gov-banner-default">
+          <span class="usa-banner__button-text">Here&apos;s how you know</span>
+        </button>
+      </div>
+    </header>
+    <div class="usa-banner__content usa-accordion__content" id="gov-banner-default">
+      <div class="grid-row grid-gap-lg">
+        <div class="usa-banner__guidance tablet:grid-col-6">
+          <svg width="40px" height="40px" class="usa-banner__icon usa-media-block__img banner-svg" id="dot_gov_icon" data-name="dot gov icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54 54">
+            <defs>
+              <style>
+                .icon-dot-gov-1 {
+                  fill: #007faa;
+                }
+
+                .icon-dot-gov-2 {
+                  fill: none;
+                  stroke: #046b99 !important;
+                  stroke-miterlimit: 10;
+                }
+              </style>
+            </defs>
+            <title>dot gov icon</title>
+            <path class="icon-dot-gov-1" d="M36.5,20.91v1.36H35.15a0.71,0.71,0,0,1-.73.68H18.23a0.71,0.71,0,0,1-.73-0.68H16.14V20.91l10.18-4.07Zm0,13.57v1.36H16.14V34.48a0.71,0.71,0,0,1,.73-0.68h18.9A0.71,0.71,0,0,1,36.5,34.48ZM21.57,23.62v8.14h1.36V23.62h2.71v8.14H27V23.62h2.71v8.14h1.36V23.62h2.71v8.14h0.63a0.71,0.71,0,0,1,.73.68v0.68H17.5V32.45a0.71,0.71,0,0,1,.73-0.68h0.63V23.62h2.71Z" />
+            <circle class="icon-dot-gov-2" cx="27" cy="27.12" r="26" />
+          </svg>
+          <div class="usa-media-block__body">
+            <p>
+              <strong>Official websites use .gov</strong><br>
+                A <strong>.gov</strong> website belongs to an official government organization in the United States.            </p>
+          </div>
+        </div>
+        <div class="usa-banner__guidance tablet:grid-col-6">
+          <svg width="40px" height="40px" class="usa-banner__icon usa-media-block__img banner-svg" id="https_icon" data-name="https icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54 54">
+            <defs>
+              <style>
+                .icon-https-1 {
+                  fill: #549500;
+                }
+
+                .icon-https-2 {
+                  fill: none;
+                  stroke: #458600;
+                  stroke-miterlimit: 10;
+                }
+              </style>
+            </defs>
+            <title>https icon</title>
+            <path class="icon-https-1" d="M34.72,34.84a1.29,1.29,0,0,1-1.29,1.29H20.57a1.29,1.29,0,0,1-1.29-1.29V27.12a1.29,1.29,0,0,1,1.29-1.29H21V23.26a6,6,0,0,1,12,0v2.57h0.43a1.29,1.29,0,0,1,1.29,1.29v7.72Zm-4.29-9V23.26a3.43,3.43,0,0,0-6.86,0v2.57h6.86Z" />
+            <circle class="icon-https-2" cx="27" cy="27.12" r="26" />
+          </svg>
+          <div class="usa-media-block__body">
+            <p>
+              <strong>Secure .gov websites use HTTPS</strong><br>
+                A <strong>lock</strong> ( <span class="icon-lock"><svg xmlns="http://www.w3.org/2000/svg" width="52" height="64" viewBox="0 0 52 64" class="usa-banner__lock-image" role="img" aria-hidden="true"><path fill="#000000" fill-rule="evenodd" d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z"/></svg></span> ) or <strong>https://</strong> means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<header data-component-id="nal_global:header__extended" class="usa-header usa-header--extended">
+  <div class="usa-navbar">
+    
+<div data-component-id="nal_global:site_branding" class="nal-site-branding">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 147.04 100.58" aria-labelledby="usda-logo">
+  <title id="usda-logo">USDA Logo</title>
+  <defs>
+    <style>.usda-logo-1{fill:#004785;}.usda-logo-2{fill:#005941;}</style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <path class="usda-logo-1" d="M33.36,4.09l-.19,25.36c0,10.54-6.26,14.63-14.69,14.63C11.22,44.08,2,40.86,2,29.88V4.09A3.16,3.16,0,0,0,0,1.3H11.9A3.11,3.11,0,0,0,10,4.09v26c0,4.34,1.49,10.48,9.55,10.48,7.38,0,10-4.84,10-11L29.45,4.09A3,3,0,0,0,27.78,1.3H35A3,3,0,0,0,33.36,4.09Z"/>
+      <path class="usda-logo-1" d="M50.15,44.08a26.37,26.37,0,0,1-11.9-3l-.31-10.48c1.18,4.4,4.9,10.23,11.35,10.23,6.13,0,8-4.4,8-7.44,0-6-5.39-6.76-11-9.8s-8.19-6.51-8.19-11.22C38.06,4,45.94.62,51.58.62a19.92,19.92,0,0,1,9.36,2.29l.31,9.18c-.87-3.29-4.4-8.25-10.35-8.25-4.72,0-6.58,3.29-6.58,6,0,3.78,2.67,5.2,8.5,7.87S64.6,22.44,64.6,31.06C64.6,38.81,57.78,44.08,50.15,44.08Z"/>
+      <path class="usda-logo-1" d="M84.62,43.46H68.69a3.08,3.08,0,0,0,1.61-2.79V4.09A3,3,0,0,0,68.69,1.3H85.18c20.4,0,24.49,14.45,24.49,20.46C109.67,32.55,101.36,43.46,84.62,43.46ZM83.88,4.4c-1.49,0-4.78,0-5.71.13V40.24h5c14,0,17.92-9.43,17.92-18.48C101.05,14.32,96.71,4.4,83.88,4.4Z"/>
+      <path class="usda-logo-1" d="M133.77,43.46c1.62-.87,1.93-1.73,1.49-3-.18-.62-1.8-4.4-3.53-8.61H116.54a89.58,89.58,0,0,0-3.47,8.55c-.56,1.49-.25,2.36,1.42,3.1h-8.55a7.38,7.38,0,0,0,2.91-3C110,38.07,126.33,0,126.33,0s16.5,38.07,17.61,40.42a5.45,5.45,0,0,0,3.1,3ZM124,13.39s-4.22,10.54-6.2,15.19H130.3C127.39,21.7,124,13.39,124,13.39Z"/>
+      <path class="usda-logo-2" d="M145.18,49.42S55,47.18,1.52,75.65c0,0,56.63-22.39,143.66-20.15Z"/>
+      <path class="usda-logo-2" d="M1.52,49.42s30.4.32,49.27,7.36c0,0-38.71-3.2-49.27-1.6Z"/>
+      <path class="usda-logo-2" d="M1.52,59.34s21.76-1,34.88.32c0,0-31.68,3.84-34.88,5.44Z"/>
+      <path class="usda-logo-2" d="M130.23,60.32h-.47C103.53,60.83,48.51,64,1.54,80.59v20l143.66,0V60.32S139.62,60.15,130.23,60.32Z"/>
+    </g>
+  </g>
+</svg>
+
+  <div class="nal-site-branding__text">
+          <div class="nal-site-branding__site-name"><a href="/" title="Home" rel="home">Economics, Statistics, and Market Information System</a></div>
+        <div class="nal-site-branding__usda site-branding__usda"><a href="https://www.usda.gov">U.S. Department of Agriculture</a></div>
+  </div>
+</div>
+
+    <button data-component-id="nal_global:menu_button" class="usa-menu-btn cursor-pointer" type="button">Menu</button>
+
+  </div>
+  <nav aria-label="Primary navigation" class="usa-nav">
+    <div class="usa-nav__inner">
+      
+<button class="usa-nav__close nal-close-button bg-transparent border-0 cursor-pointer" data-component-id="nal_global:close_button">
+  <svg aria-hidden="true" class="usa-icon" focusable="false" role="img"><use href="/themes/custom/nal_global/uswds/img/sprite.svg#close"></use></svg>
+  <span class="usa-sr-only">Close</span>
+</button>
+
+
+      <div class="usa-nav__secondary">
+            
+<ul id="block-global-subtheme-useraccountmenu" data-component-id="nal_global:secondary_links" class="usa-nav__secondary-links">
+      <li class="usa-nav__secondary-item">
+      <a href="/user/login" data-drupal-link-system-path="user/login">Log in</a>
+    </li>
+  </ul>
+
+
+
+
+
+  
+      </div>
+
+          
+                    <ul data-component-id="nal_global:primary_navigation" class="usa-nav__primary usa-accordion">
+                <li class="usa-nav__primary-item">
+        
+                          <a href="/" class="usa-nav-link" data-drupal-link-system-path="&lt;front&gt;"><span>Publication Search</span></a>
+        
+              </li>
+                <li class="usa-nav__primary-item">
+        
+                          <a href="/release-calendar" class="usa-nav-link" data-drupal-link-system-path="release-calendar"><span>Release Calendar</span></a>
+        
+              </li>
+                <li class="usa-nav__primary-item">
+        
+                          <a href="/api-documentation" class="usa-nav-link" data-drupal-link-system-path="node/795716"><span>API Documentation</span></a>
+        
+              </li>
+        </ul>
+  
+
+
+
+
+
+
+      </div>
+  </nav>
+</header>
+
+
+  <div class="grid-container">
+    <div class="grid-row grid-gap">
+
+                  <section class="tablet:grid-col-12">
+
+                                      <div class="highlighted">  <div class="region region--highlighted">
+    <div id="block-global-subtheme-sitewidealert" class="block block-sitewide-alert-block">
+  
+    
+      <div data-sitewide-alert role="banner"></div>
+  </div>
+<div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+</div>
+                  
+                                      
+                  
+                  <main id="main-content" class="nal-error-page__main">
+      
+<h1 data-component-id="nal_global:http_status_indicator" class="nal-http-status-indicator" type="button">
+  <span class="nal-http-status-indicator__code">404</span>
+  <span class="nal-http-status-indicator__reason-phrase">Page Not Found</span>
+</h1>
+
+    <div id="block-global-subtheme-content" class="block block-system block-system-main-block">
+  
+    
+      The requested page could not be found.
+  </div>
+
+  </main>
+      </section>
+
+            
+                </div>
+  </div>
+
+  <footer class="usa-footer">
+                  <div class="usa-footer__primary-section">
+          <div class="grid-container">
+              <div class="region region--footer">
+    
+  </div>
+
+          </div>
+        </div>
+          
+          <div class="usa-footer__secondary-section">
+        <div class="grid-container">
+          
+<nav class="nal-government-links grid-row" aria-label="Government Links">
+  <ul class="nal-government-links__list tablet:grid-col-12">
+          <li class="nal-government-links__list-item">
+        <a href="https://www.usda.gov/policies-and-links" class="nal-government-links__link">Policies and Links</a>
+      </li>
+          <li class="nal-government-links__list-item">
+        <a href="https://www.usda.gov/plain-writing" class="nal-government-links__link">Plain Writing</a>
+      </li>
+          <li class="nal-government-links__list-item">
+        <a href="https://www.ars.usda.gov/oc/foia/freedom-of-information-act-and-privacy-act-reference-guide/" class="nal-government-links__link">FOIA</a>
+      </li>
+          <li class="nal-government-links__list-item">
+        <a href="https://www.usda.gov/accessibility-statement" class="nal-government-links__link">Accessibility Statement</a>
+      </li>
+          <li class="nal-government-links__list-item">
+        <a href="https://www.usda.gov/privacy-policy" class="nal-government-links__link">Privacy Policy</a>
+      </li>
+          <li class="nal-government-links__list-item">
+        <a href="https://www.usda.gov/non-discrimination-statement" class="nal-government-links__link">Non-Discrimination Statement</a>
+      </li>
+          <li class="nal-government-links__list-item">
+        <a href="https://www.usda.gov/about-usda/general-information/staff-offices/office-assistant-secretary-civil-rights" class="nal-government-links__link">Office of the Assistant Secretary for Civil Rights (OASCR)</a>
+      </li>
+          <li class="nal-government-links__list-item">
+        <a href="https://www.ars.usda.gov/docs/quality-of-information/" class="nal-government-links__link">Information Quality</a>
+      </li>
+          <li class="nal-government-links__list-item">
+        <a href="https://www.nal.usda.gov" class="nal-government-links__link">National Agricultural Library</a>
+      </li>
+          <li class="nal-government-links__list-item">
+        <a href="https://www.ars.usda.gov" class="nal-government-links__link">Agricultural Research Service</a>
+      </li>
+          <li class="nal-government-links__list-item">
+        <a href="https://www.usda.gov" class="nal-government-links__link">USDA.gov</a>
+      </li>
+          <li class="nal-government-links__list-item">
+        <a href="https://www.usa.gov" class="nal-government-links__link">USA.gov</a>
+      </li>
+          <li class="nal-government-links__list-item">
+        <a href="https://www.whitehouse.gov" class="nal-government-links__link">WhiteHouse.gov</a>
+      </li>
+      </ul>
+  </nav>
+
+        </div>
+      </div>
+      </footer>
+
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en","theme":"themes\/custom\/global_subtheme"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"data":{"extlink":{"extTarget":false,"extTargetAppendNewWindowDisplay":true,"extTargetAppendNewWindowLabel":"(opens in a new window)","extTargetNoOverride":false,"extNofollow":false,"extTitleNoOverride":false,"extNoreferrer":false,"extFollowNoOverride":false,"extClass":"ext","extLabel":"(link is external)","extImgClass":false,"extSubdomains":false,"extExclude":"","extInclude":"","extCssExclude":".default-button,.social-link,.usa-button,.important-links,.site-branding__usda","extCssInclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"You are leaving a federal website to go to an external one.  We are not responsible for the content on external websites.","extHideIcons":false,"mailtoClass":"mailto","telClass":"","mailtoLabel":"(link sends email)","telLabel":"(link is a phone number)","extUseFontAwesome":false,"extIconPlacement":"append","extPreventOrphan":false,"extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","extAdditionalLinkClasses":"","extAdditionalMailtoClasses":"","extAdditionalTelClasses":"","extFaTelClasses":"fa fa-phone","allowedDomains":[],"extExcludeNoreferrer":""}},"sitewideAlert":{"refreshInterval":15000,"automaticRefresh":false},"user":{"uid":0,"permissionsHash":"8334501404af57aa6b578b64d0827f654d896f8f6d70e0923d92951d4031b3ef"}}</script>
+<script src="/sites/default/files/js/js_T9hxTx7H26EOE0_V28-mAk78w6FgilynFxBAsjlpYgg.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=global_subtheme&amp;include=eJxFylEKwCAIANAL1TxSWMmQOQ0z2vH3M9jng9fMCZrdw5Q05qEo5RSrKDlXVCVP9ISwXtB9DZTjY_onrLn7TJODNncqKOQBrBwvx2Qktw"></script>
+
+  </body>
+</html>
+
